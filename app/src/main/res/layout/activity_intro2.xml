@@ -40,7 +40,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="24dp"
-        android:text="Name: Ibrahim Ali Asghar\nCourse: SMD\nRoll Number: 19K-1443"
+        android:text="Name: Ibrahim Ali\nCourse: SMD\nRoll Number: 19K-0289"
         android:textColor="#ffffff"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/button"
